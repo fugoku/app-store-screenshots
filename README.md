@@ -239,6 +239,17 @@ Before exporting, each slide should pass this quick review:
 - Node.js 18+
 - One of: bun, pnpm, yarn, or npm (detected automatically, bun preferred)
 
+## Contributing
+
+Contributions are welcome, especially around:
+
+- screenshot generation reliability
+- skill prompt quality
+- clearer docs and onboarding
+- cross-agent compatibility
+
+If you want to contribute, start with `CONTRIBUTING.md`. Bug reports and feature requests also have issue templates now to make reproduction and review easier.
+
 ## License
 
 MIT
